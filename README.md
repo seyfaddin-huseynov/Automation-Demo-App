@@ -1,5 +1,5 @@
 # Automation-Demo-App
-A tiny, good-looking playground to practice Playwright UI automation.
+A tiny, good-looking playground to demo UI automation.
 
 # Run locally
 Node 18+ recommended.
