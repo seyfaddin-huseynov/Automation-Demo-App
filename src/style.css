@@ -1,0 +1,17 @@
+:root {
+  --ring: #4f46e5;
+}
+body {
+  background: #f7f7fb;
+}
+.card {
+  border-radius: 1rem;
+}
+.btn-primary {
+  box-shadow: 0 0 0 0.2rem rgba(79, 70, 229, 0.15);
+}
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--ring);
+  box-shadow: 0 0 0 0.2rem rgba(79, 70, 229, 0.25);
+}
